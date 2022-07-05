@@ -83,16 +83,14 @@
 
 <br/>  
 
-<div>
 ## Stats  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbotasse&theme=tokyonight&show_icons=true)
 
-<br />
+## Languages Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbotasse&layout=compact&theme=tokyonight)
 
-</div>
 <br/>  
 
 
