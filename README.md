@@ -83,19 +83,17 @@
 
 <br/>  
 
-
+<div>
 ## Stats  
-<table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=renanbotasse&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbotasse&theme=tokyonight&show_icons=true)
 
-</td><td valign="top" width="50%">
+<br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbotasse&hide_border=true&layout=compact" align="center" /></div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbotasse&layout=compact&theme=tokyonight)
 
-</td></tr></table>  
-
+</div>
 <br/>  
 
 
-<br />
+
