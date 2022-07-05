@@ -79,11 +79,11 @@
 
 ## Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbotasse&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanbotasse&theme=default&show_icons=true)
 
 ## Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbotasse&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanbotasse&layout=compact&theme=default)
 
 <br/>  
 
