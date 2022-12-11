@@ -1,16 +1,9 @@
 ## <div align="center">Hi! I'm Renan 👋🏻<p> JavaScript Developer </p> </div>  
   
 
-- 📑 I’m currently studie on [The Odin Project](https://www.theodinproject.com/) Full Stack JavaScript.  
-  
+- 📑 Cadet at [42 Porto](https://www.42porto.com/).  
 
-- 🌊 I'm in the selection process for [42 Porto](https://www.42porto.com/).  
-  
-
-- 🔥You can see my Portfolio [Here](https://renanbotasse.github.io/).  
-  
-
-- 🎃 Fun fact: I was a lawyer and moved from 🇧🇷 to 🇵🇹.   
+- 🔥You can see my Portfolio [Here](https://renanbotasse.github.io/).    
   
 
 <br/>  
@@ -36,23 +29,18 @@
 
 ### Studying  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="70" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
-
 </td><td valign="top" width="33%">
 
 
 
 ### Next Step  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177319135-75155b9e-f5c0-4dfe-82cd-8cfe41c91996.png" alt="Ruby on Rails" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177319482-e13f5815-43d0-4a73-bb67-b6573dce020f.png" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 </div>
 
 </td></tr></table>  
