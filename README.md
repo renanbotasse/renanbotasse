@@ -8,9 +8,8 @@
 
 <br/>  
 
- 
+ # Current Skills  
 <div align="center">  
-# Current Skills  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177317501-f2a23d1d-c161-4a95-a38c-b57d05b3e1ae.png" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177317624-c1c5b066-8460-4c8b-9a41-9d988112343f.png" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177317847-eabcdbc0-2824-4805-92e1-61507dceac01.png" alt="React" height="50" /> 
@@ -20,16 +19,14 @@
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177317699-439f6ffe-c980-4526-b63a-3c626c3157e6.png" alt="Git" height="50" />  
 </div>
 
- 
+  # Studying 
 <div align="center">  
- # Studying 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
 
-
-<div align="center">  
- # Next Step  
+ # Next Step 
+<div align="center">   
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177319135-75155b9e-f5c0-4dfe-82cd-8cfe41c91996.png" alt="Ruby on Rails" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
