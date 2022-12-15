@@ -25,13 +25,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
 
- ## Next Step 
-<div align="center">   
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/101360239/177319135-75155b9e-f5c0-4dfe-82cd-8cfe41c91996.png" alt="Ruby on Rails" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-</div>
-
 </td></tr></table>  
 
 <br/>  
