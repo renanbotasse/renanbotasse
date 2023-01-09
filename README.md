@@ -13,7 +13,6 @@ JavaScript | React | HTML | CSS |
 Studying:
 Node.js | C |
 
-## Connect  
 <div align="left">
 <a href="https://renanbotasse.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white alt=github style="margin-bottom: 5px;" />
