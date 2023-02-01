@@ -1,9 +1,11 @@
 ## <div align="center">Hi! I'm Renan 👋🏻<p> JavaScript Developer </p> </div>  
   
 
-- 📑 Cadet at [42 Porto](https://www.42porto.com/).  
+- Cadet at [42 Porto](https://www.42porto.com/).  
 
-- 🔥You can see my Portfolio [Here](https://renanbotasse.github.io/).    
+- You can see my Portfolio [Here](https://renanbotasse.github.io/).   
+
+- And [here](https://renanbotasse.hashnode.dev/) you can see some of my no-code texts. 
   
 
 <br/>  
