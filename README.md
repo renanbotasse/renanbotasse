@@ -21,7 +21,7 @@
 
 ## 💻 Skills I'm Studying
 
-[![My Skills](https://skillicons.dev/icons?i=azure,powershell,angular,cpp,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,powershell,angular,cpp,docker,linux,ts)](https://skillicons.dev)
 
 <br>
 
