@@ -14,7 +14,7 @@
 | 🗣️ &nbsp; - I'm also helping translate some [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/) articles into PT-BR |
 |-----------------------------------------|
 
-## 🧑‍💻 My Teck Stack
+## 🧑‍💻 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,c,bash,vim)](https://skillicons.dev)
 
