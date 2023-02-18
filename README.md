@@ -11,7 +11,8 @@
 | ✍️  &nbsp; - You can check my no-code texts on [hashnode](https://renanbotasse.hashnode.dev/) and [HackerNoon](https://hackernoon.com/u/renanb)|
 |-----------------------------------------|
 
-<br>
+| 🗣️ &nbsp; - I'm also helping translate some [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/) articles into PT-BR |
+|-----------------------------------------|
 
 ## 🧑‍💻 My Teck Stack
 
