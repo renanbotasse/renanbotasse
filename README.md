@@ -1,26 +1,50 @@
 ## <div align="center">Hi! I'm Renan 👋🏻<p> JavaScript Developer </p> </div>  
   
+| 🎓  &nbsp; - Student at [42 Porto](https://www.42porto.com/)       | 
+|-----------------------------------------| 
 
-- Cadet at [42 Porto](https://www.42porto.com/).  
 
-- You can see my Portfolio [Here](https://renanbotasse.github.io/).   
+| 🪪  &nbsp; - You can check my [Portfolio](https://renanbotasse.github.io/)|
+|-----------------------------------------|
 
-- And [here](https://renanbotasse.hashnode.dev/) you can see some of my no-code texts. 
-  
+
+| ✍️  &nbsp; - You can check my no-code texts on [hashnode](https://renanbotasse.hashnode.dev/) and [HackerNoon](https://hackernoon.com/u/renanb)|
+|-----------------------------------------|
+
+<br>
+
+## 🧑‍💻 My Teck Stack
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,c,bash,vim)](https://skillicons.dev)
+
+<br>
+
+## 💻 Skills I'm Studying
+
+[![My Skills](https://skillicons.dev/icons?i=azure,powershell,angular,cpp,docker,linux)](https://skillicons.dev)
+
+<br>
+
+## ⌨️ My Projects
+- [Video Stream - MERN](https://github.com/renanbotasse/mern-videostream)
+- [42 Porto - Common Core](https://github.com/renanbotasse/porto42)
+- [Node.js Projects](https://github.com/renanbotasse/nodejs-projects)
+- [JavaScript for Beginners](https://github.com/renanbotasse/javascript-projects)
+- [Tarot](https://github.com/renanbotasse/tarot)
+- [FCC Curriculum](https://github.com/renanbotasse/fccCurriculum)
+- [Odin Curriculum](https://github.com/renanbotasse/Odin)
+- [42 Porto - Pscine](https://github.com/renanbotasse/piscine42Porto)
+- [Firsts JavaScript Projects](https://github.com/renanbotasse/basicProjects)
+<br/>  
+
+
+## <img src="https://hackernoon.imgix.net/hn-icon.png" width=40 height=40> Lastest HackerNoon Articles
+- [Fullmetal Alchemist: Brotherhood - The Pursuit of Happiness](https://hackernoon.com/fullmetal-alchemist-brotherhood-the-pursuit-of-happiness)
+- [Tomie - The Masterpiece](https://hackernoon.com/tomie-the-masterpiece)
+- [Exploring Shikamaru's Stoicism](https://hackernoon.com/exploring-shikamarus-stoicism)
 
 <br/>  
-Current Skills:
-JavaScript | React | HTML | CSS |
 
-Studying:
-Node.js | C |
+## 🙋‍♂️ Connect With Me On [Linkedin](https://www.linkedin.com/in/renan-botasse/)
+<img width="623" alt="Screenshot 2023-02-18 at 08 37 13" src="https://user-images.githubusercontent.com/101360239/219850701-dd375942-b412-427b-aa6e-cbae59c4a224.png">
 
-<div align="left">
-<a href="https://renanbotasse.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/renan-botasse-275217235" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:renanbotasse@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt=gmail style="margin-bottom: 5px;"></a>
-</div>  
