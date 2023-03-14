@@ -14,6 +14,9 @@
 | 🗣️ &nbsp; - I'm also helping translate some [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/) articles into PT-BR |
 |-----------------------------------------|
 
+| ⚙️ &nbsp; - My [Gear/WishList](https://github.com/renanbotasse/gear) and my [Mac SetUp](https://github.com/renanbotasse/setup) |
+|-----------------------------------------|
+
 ## 🧑‍💻 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,c,bash)](https://skillicons.dev)
