@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,c,bash,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,c,bash)](https://skillicons.dev)
 
 <br>
 
