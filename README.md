@@ -1,20 +1,17 @@
 ## <div align="center">Hi! I'm Renan 👋🏻<p> JavaScript Developer </p> </div>  
-  
-| 🎓  &nbsp; - Student at [42 Porto](https://www.42porto.com/)       | 
-|-----------------------------------------| 
-
+ 
 
 | 🪪  &nbsp; - You can check my [Portfolio](https://renanbotasse.github.io/)|
 |-----------------------------------------|
 
 
-| ✍️  &nbsp; - You can check my no-code texts on [hashnode](https://renanbotasse.hashnode.dev/) and [HackerNoon](https://hackernoon.com/u/renanb)|
+| ✍️  &nbsp; - And my no-code texts on [hashnode](https://renanbotasse.hashnode.dev/) and [HackerNoon](https://hackernoon.com/u/renanb)|
 |-----------------------------------------|
 
 | 🗣️ &nbsp; - I'm also helping translate some [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/) articles into PT-BR |
 |-----------------------------------------|
 
-| ⚙️ &nbsp; - My [Gear/WishList](https://github.com/renanbotasse/gear) and my [Mac Setup](https://github.com/renanbotasse/setup) |
+| ⚙️ &nbsp; - My [Mac Setup](https://github.com/renanbotasse/setup) |
 |-----------------------------------------|
 
 ## 🧑‍💻 My Tech Stack
