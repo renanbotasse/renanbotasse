@@ -48,5 +48,7 @@
 <br/>  
 
 ## 🙋‍♂️ Connect With Me On [Linkedin](https://www.linkedin.com/in/renan-botasse/)
-<img width="623" alt="Screenshot 2023-02-18 at 08 37 13" src="https://user-images.githubusercontent.com/101360239/219850701-dd375942-b412-427b-aa6e-cbae59c4a224.png">
+
+<img width="630" alt="Screenshot 2023-04-16 at 19 06 41" src="https://user-images.githubusercontent.com/101360239/232332741-2b05b86d-a65e-42bf-92ec-46334613b545.png">
+
 
