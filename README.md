@@ -16,27 +16,22 @@
 
 ## 🧑‍💻 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,c,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md)](https://skillicons.dev)
 
 <br>
 
 ## 💻 Skills I'm Studying
 
-[![My Skills](https://skillicons.dev/icons?i=azure,powershell,angular,cpp,docker,linux,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,cpp,docker,ts)](https://skillicons.dev)
 
 <br>
 
 ## ⌨️ My Projects
-- [Video Stream - MERN](https://github.com/renanbotasse/mern-videostream)
-- [42 Porto - Common Core](https://github.com/renanbotasse/porto42)
 - [AC Milan Next Match](https://github.com/renanbotasse/acmilan)
 - [Node.js Projects](https://github.com/renanbotasse/nodejs-projects)
 - [JavaScript for Beginners](https://github.com/renanbotasse/javascript-projects)
-- [Tarot](https://github.com/renanbotasse/tarot)
 - [FCC Curriculum](https://github.com/renanbotasse/fccCurriculum)
 - [Odin Curriculum](https://github.com/renanbotasse/Odin)
-- [42 Porto - Pscine](https://github.com/renanbotasse/piscine42Porto)
-- [Firsts JavaScript Projects](https://github.com/renanbotasse/basicProjects)
 <br/>  
 
 
