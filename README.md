@@ -8,9 +8,6 @@
 | ✍️  &nbsp; - My no-code texts on [HackerNoon](https://hackernoon.com/u/renanb)|
 |-----------------------------------------|
 
-| 🗣️ &nbsp; - I'm also helping translate some [FreeCodeCamp](https://www.freecodecamp.org/portuguese/news/) articles into PT-BR |
-|-----------------------------------------|
-
 <br>
 
 ## 🧑‍💻 My Tech Stack
@@ -19,20 +16,18 @@
 
 <br>
 
-## 💻 Skills I'm Studying
+## 💻 Studying
 
 [![My Skills](https://skillicons.dev/icons?i=azure,c,cpp,docker,ts)](https://skillicons.dev)
 
 <br>
 
 ## ⌨️ Last Projects
-- [Next Milan Match](https://github.com/renanbotasse/milanmatch)
+- [Home Library](https://libraryrb.onrender.com/)
 - [New Portfolio](https://github.com/renanbotasse/renanb)
 - [Jooana d'Art's website](https://github.com/renanbotasse/joo)
 
-
 <br/>  
-
 
 ## <img src="https://hackernoon.imgix.net/hn-icon.png" width=40 height=40> Lastest HackerNoon Articles
 - [Fullmetal Alchemist: Brotherhood - The Pursuit of Happiness](https://hackernoon.com/fullmetal-alchemist-brotherhood-the-pursuit-of-happiness)
