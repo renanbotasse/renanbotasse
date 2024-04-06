@@ -1,43 +1,42 @@
-## <div align="center">Hi! I'm Renan 👋🏻<p> JavaScript Developer </p> </div>  
+## <div align="center">Hi! I'm Renan 👋🏻<p> Software Developer </p> </div>  
  
 
 | 🪪  &nbsp; - You can check my [Portfolio](https://renanbotasse.github.io/renanb)|
 |-----------------------------------------|
 
 
-| ✍️  &nbsp; - My no-code texts on [HackerNoon](https://hackernoon.com/u/renanb)|
+| ✍️  &nbsp; - My texts on [HackerNoon](https://hackernoon.com/u/renanb)|
 |-----------------------------------------|
 
 <br>
 
 ## 🧑‍💻 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,jest)](https://skillicons.dev)
 
 <br>
 
-## 💻 Studying
-
-[![My Skills](https://skillicons.dev/icons?i=azure,c,cpp,docker,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,angular,azure,docker,ts,nestjs,mysql,postgres)](https://skillicons.dev)
 
 <br>
 
 ## ⌨️ Last Projects
-- [Home Library](https://libraryrb.onrender.com/)
+- [Sage - Telegram Bot](https://github.com/renanbotasse/sageBot)
 - [New Portfolio](https://github.com/renanbotasse/renanb)
 - [Jooana d'Art's website](https://github.com/renanbotasse/joo)
 
 <br/>  
 
 ## <img src="https://hackernoon.imgix.net/hn-icon.png" width=40 height=40> Lastest HackerNoon Articles
-- [Fullmetal Alchemist: Brotherhood - The Pursuit of Happiness](https://hackernoon.com/fullmetal-alchemist-brotherhood-the-pursuit-of-happiness)
-- [Tomie - The Masterpiece](https://hackernoon.com/tomie-the-masterpiece)
-- [Exploring Shikamaru's Stoicism](https://hackernoon.com/exploring-shikamarus-stoicism)
+- [Comments: The Good, the Bad and the Ugly](https://app.hackernoon.com/stats/comments-the-good-the-bad-and-the-ugly)
+- [Your Junior Dev Survival Guide to Managing Branches, Commits and PR](https://app.hackernoon.com/stats/your-junior-dev-survival-guide-to-managing-branches-commits-and-pr)
+- [My First Steps in Cybersecurity: What I Have Learned and Tools I'm Using](https://app.hackernoon.com/stats/my-first-steps-in-cybersecurity-what-i-have-learned-and-tools-im-using)
 
 <br/>  
 
 ## 🙋‍♂️ Connect With Me On [Linkedin](https://www.linkedin.com/in/renanbotasse/)
 
-<img width="630" alt="Screenshot 2023-04-16 at 19 06 41" src="https://user-images.githubusercontent.com/101360239/232332741-2b05b86d-a65e-42bf-92ec-46334613b545.png">
+<img width="630" alt="LinkedIn" src="https://github.com/renanbotasse/renanbotasse/assets/101360239/41d201f6-ab46-46c0-9353-5e699e46103e">
+
 
 
