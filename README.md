@@ -1,42 +1,20 @@
-## <div align="center">Hi! I'm Renan 👋🏻<p> Software Developer </p> </div>  
- 
+<div align="center">
 
-| 🪪  &nbsp; - You can check my [Portfolio](https://renanbotasse.github.io/renanb)|
-|-----------------------------------------|
+# Hi, my name is Renan 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://renanbotasse.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanbotasse)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-00FF00?style=for-the-badge&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/renanb)
 
-| ✍️  &nbsp; - My texts on [HackerNoon](https://hackernoon.com/u/renanb)|
-|-----------------------------------------|
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<br>
+</br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOXc2dG5tNnM0cDRlcXNwMjJ0Y2ljN25pMHltZTZkc29tamR1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSmWW0bHGTru6IrPFf/giphy.gif" width="120"/>
+</br>
 
-## 🧑‍💻 My Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,mongodb,express,postman,react,html,css,git,github,visualstudio,md,jest)](https://skillicons.dev)
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,angular,azure,docker,ts,nestjs,mysql,postgres)](https://skillicons.dev)
-
-<br>
-
-## ⌨️ Last Projects
-- [Sage - Telegram Bot](https://github.com/renanbotasse/sageBot)
-- [New Portfolio](https://github.com/renanbotasse/renanb)
-- [Jooana d'Art's website](https://github.com/renanbotasse/joo)
-
-<br/>  
-
-## <img src="https://hackernoon.imgix.net/hn-icon.png" width=40 height=40> Lastest HackerNoon Articles
-- [Comments: The Good, the Bad and the Ugly](https://app.hackernoon.com/stats/comments-the-good-the-bad-and-the-ugly)
-- [Your Junior Dev Survival Guide to Managing Branches, Commits and PR](https://app.hackernoon.com/stats/your-junior-dev-survival-guide-to-managing-branches-commits-and-pr)
-- [My First Steps in Cybersecurity: What I Have Learned and Tools I'm Using](https://app.hackernoon.com/stats/my-first-steps-in-cybersecurity-what-i-have-learned-and-tools-im-using)
-
-<br/>  
-
-## 🙋‍♂️ Connect With Me On [Linkedin](https://www.linkedin.com/in/renanbotasse/)
-
-<img width="630" alt="LinkedIn" src="https://github.com/renanbotasse/renanbotasse/assets/101360239/41d201f6-ab46-46c0-9353-5e699e46103e">
-
-
-
+</div>
