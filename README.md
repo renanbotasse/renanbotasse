@@ -1,7 +1,6 @@
 <div align="center">
 
 # Renan Botasse
-**Developer**
 <br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOXc2dG5tNnM0cDRlcXNwMjJ0Y2ljN25pMHltZTZkc29tamR1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSmWW0bHGTru6IrPFf/giphy.gif" width="120"/>
 
