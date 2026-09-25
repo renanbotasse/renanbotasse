@@ -3,7 +3,7 @@
 # Renan Botasse
 <br/>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOXc2dG5tNnM0cDRlcXNwMjJ0Y2ljN25pMHltZTZkc29tamR1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HSmWW0bHGTru6IrPFf/giphy.gif" width="120"/>
-
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://renanbotasse.vercel.app/work/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renanbotasse)
